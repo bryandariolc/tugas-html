@@ -1,0 +1,119 @@
+/*style.css */
+body{
+	border-top: 25px solid black;
+	margin: 0;
+	font-family: Georgia, Times, serif;
+	line-height: 1.4em;
+	color: #666666;
+	background-color: #f9f8f6;
+
+}
+#awal{
+	margin:0 auto;
+}
+
+#menu{
+	float: left;
+	margin-top: 60px;
+
+}
+#menu ul{
+	margin-left: : 0;
+	padding: 5px;
+}
+#menu ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px;
+}
+#contact {
+	clear: left;
+}
+#gallery{
+	margin-left: 50px;
+}
+.contact{
+	clear: both;
+	text-align: center;
+
+}
+.box1{
+	margin-right: 880px;
+}
+.box2{
+	margin-right: 380px;
+}
+.box3{
+	margin-right: 800px;
+}
+.r1{
+	margin-left: 50px;
+}
+.r2{
+	margin-left: 50px;
+}
+.box11{
+	margin-left: 900px;
+	margin-right: 100px;
+}
+.box21{
+	margin-left: 1200px;
+	margin-right: 100px;
+}
+.box31{
+	margin-left: 880px;
+	margin-right: 100px;
+}
+.r11{
+	margin-left: 50px;
+}
+.next{
+	background: pink;
+	position: relative;
+	float: right;
+	right: 0;
+	bottom: 0;
+}
+.next:hover{
+	background: lightblue;
+	position: relative;
+	float: right;
+	right: 0;
+	bottom: 0;
+}
+.back{
+	background: pink;
+	position: relative;
+	float: left;
+	left: : 0;
+	bottom: 0;
+}
+.back:hover{
+	background: lightblue;
+	position: relative;
+	float: left;
+	left: 0;
+	bottom: 0;
+}
+.linkstart{
+ 
+ 
+  background: pink;
+  font-family: 'Arial';
+  font-size: 100%;
+  color:#2e51a2;
+  clear: both;
+  margin-left: 850px;
+  margin-right: 850px;
+}
+.linkstart:hover{
+	
+  		background: lightblue;
+  		font-family: 'Arial';
+  		font-size: 100%
+  		color:black;
+  		clear: both;
+}
+.pic{
+display: inline-block;
+}
